@@ -1,0 +1,6 @@
+# TOML configuration loaded from the directory containing do-review.
+# Binary names are resolved through PATH; paths support a leading ~.
+SASHIKO_API_KEY = "sk-XXX"
+SASHIKO_SETTINGS = "/path/to/sashiko/Settings.toml"
+CLAUDE_BIN = "claude"
+CODEX_BIN = "codex"
